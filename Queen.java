@@ -2,7 +2,6 @@
 //
 // Contains the class Queen that represents a queen chesspiece
 //
-// Santrupti Nerli, Jan 2017
 
 class Queen extends ChessPiece {
 

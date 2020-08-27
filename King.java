@@ -2,7 +2,6 @@
 //
 // Contains the class King that represents a king chesspiece
 //
-// Santrupti Nerli, Jan 2016
 
 class King extends ChessPiece {
 

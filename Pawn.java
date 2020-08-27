@@ -2,7 +2,6 @@
 //
 // Contains the class Pawn that represents a pawn chesspiece
 //
-// Santrupti Nerli, Jan 2017
 
 class Pawn extends ChessPiece {
 

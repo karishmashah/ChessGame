@@ -2,7 +2,7 @@
 //
 // Contains the class Bishop that represents a bishop chesspiece
 //
-// Santrupti Nerli, Jan 2017
+
 
 class Bishop extends ChessPiece {
 

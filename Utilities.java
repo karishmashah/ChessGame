@@ -2,7 +2,6 @@
 //
 // Contains class Utilities that provides some utility functions
 //
-// Santrupti Nerli, Jan 2017
 
 class Utilities {
 

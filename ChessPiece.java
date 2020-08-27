@@ -3,7 +3,7 @@
 // Contains the class ChessPiece that represents a chesspiece
 // which is the super class for all the chesspieces
 //
-// Santrupti Nerli, Jan 2017
+
 
 class ChessPiece {
 

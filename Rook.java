@@ -2,7 +2,6 @@
 //
 // Contains the class Rook that represents a rook chesspiece
 //
-// Santrupti Nerli, Jan 2017
 
 class Rook extends ChessPiece {
 

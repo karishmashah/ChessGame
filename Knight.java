@@ -2,7 +2,6 @@
 //
 // Contains the class Knight that represents a knight chesspiece
 //
-// Santrupti Nerli, Jan 2017
 
 class Knight extends ChessPiece {
 

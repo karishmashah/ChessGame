@@ -3,7 +3,6 @@
 // Contains the class Node that represents a node in a linked list
 // which is used as node in a linked list
 //
-// Santrupti Nerli, Jan 2017
 
 class Node {
 

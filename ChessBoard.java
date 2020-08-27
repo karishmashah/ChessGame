@@ -16,8 +16,7 @@
 // Check out the HW2 description for details.
 // 
 //
-// Santrupti Nerli, Jan 2017. C. Seshadhri, Oct 2017.
-//
+
 import java.io.*;
 
 class Square{
